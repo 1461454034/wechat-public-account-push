@@ -23,7 +23,6 @@ const TEMPLATE_CONFIG = [
       {{comprehensive_horoscope.DATA}}
       
       ---
-      {{https://apis.tianapi.com/caihongpi/index?key=27e84812fc730d90c3d24a72ce5aa6b4}}
       
       今天是我们相识的第{{love_day.DATA}}天
       
