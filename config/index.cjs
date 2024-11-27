@@ -23,7 +23,6 @@ USE_PASSAGE: 'push-plus',
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '3b02dc68dc20437c9d0c2ce27f36f289',
-      id: 'b3ad1db1b2504edfac156dcb5ee3a159',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
